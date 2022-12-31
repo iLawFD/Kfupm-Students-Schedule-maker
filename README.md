@@ -1,6 +1,6 @@
 
 # Kfupm-Students-Schedule-maker
-![Screenshot (14)](https://user-images.githubusercontent.com/88871860/210149391-3faf6a91-3502-469d-a77a-bc0dd476b528.png)
+
 
 Project input:
 1- Students' finished courses
