@@ -3,8 +3,8 @@
 
 
 #Project input:
-1- Students' finished courses
-2- Students' major
+- Students' finished courses
+- Students' major
 
 #Projects' output: 
 - The first scene will show all of the sections that the student can register for next semster ( the user can add and remove sections )
