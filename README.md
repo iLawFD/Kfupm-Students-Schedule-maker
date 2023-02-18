@@ -13,5 +13,5 @@
 - ![Screenshot (17)](https://user-images.githubusercontent.com/88871860/210149405-8597502e-7ba9-454b-8f8f-bc2d9c1a26ad.png)
 # Authoers
 -Fahad almutairi
--WALEED WALEED 
+-WALEED ALRAJHI 
 -MOHAMMED ALAMRI
