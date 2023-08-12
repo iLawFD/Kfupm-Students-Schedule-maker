@@ -1,6 +1,6 @@
 
 # Kfupm-Students-Schedule-maker
-
+This is my project for ics 108 course
 
 # Project input:
 - Students' finished courses
